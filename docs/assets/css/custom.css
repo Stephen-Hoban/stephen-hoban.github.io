@@ -1,0 +1,13 @@
+
+
+
+p.resume {
+    line-height: 1em;
+}
+
+h3.resume { margin-top: 1.25em;
+    /*line-height: 1em;*/
+    margin-bottom: 1.25em;
+}
+
+a.sidebarNav { color: black}
