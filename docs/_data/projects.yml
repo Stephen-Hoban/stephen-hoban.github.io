@@ -1,37 +1,36 @@
 toc2:
-  - title: Professional Projects
+  - title: Professional   
     subfolderitems:
+      - page: Ithacan Media
+        url: /ithacan.html
       - page: Topps
         url: /topps.html
       - page: eGames
-        #url: /thing2.html
-        subsubfolderitems:
-          - page: Swords and Sandals Spartacus
-            url: /spartacus.html
-          - page: Cash Quizz Rewards
-            url: /cash-quizz.html
-      - page: Ithacan Media
-        subsubfolderitems:
-          - page: openGalaxy
-            url: /openGalaxy.html
-          - page: Ithacan Mythologies
-            url: /itchacan-mythologies.html
-  - title: Personal Projects
+        url: /egames.html
+        #subsubfolderitems:
+         # - page: Swords and Sandals Spartacus
+         #   #url: /spartacus.html
+         # - page: Cash Quizz Rewards
+         #   url: /cash-quizz.html
+        #subsubfolderitems:
+        #  - page: openGalaxy
+        #    #url: /openGalaxy.html
+        #  - page: Ithacan Mythologies
+        #    #url: /itchacan-mythologies.html
+  - title: Personal 
     subfolderitems:
       - page: Chelsea Waterside
         url: /chelsea-waterside.html
-      - page: Word 3
-        url: /piece2.html
-  - title: Force Majeure and Bullpen Projects
+      - page: Down Word Drop
+        #url: /piece2.html
+  - title: Force Majeure and Bullpen 
     subfolderitems:
-      - page: Widget 1
-        url: /widget1.html
-        subsubfolderitems:
-          - page: Subwidget 1
-            url: /subwidget1.html
-          - page: Subwidget 2
-            url: /subwidget2.html
-      - page: Widget 2
-        url: /widget2.html
-      - page: Widget 3
-        url: /widget3.html
+      - page: Trains Go By
+        #url: /trainsgoby.html
+      - page: When Earth Met Sky
+      - page: Subalternalternalternative Nation
+        url: /subaltern.html
+      - page: PowAR BrokAR
+        #url: /moses.html
+
+
