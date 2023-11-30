@@ -20,9 +20,9 @@
 
 title: Stephen Hoban
 email: stephen.hoban@gmail.com
-tagline: a mobile game developer
+tagline: Unity game developer
 description: >- # this means to ignore newlines until "baseurl:"
-  Mobile Unity game developer 
+  Unity game developer 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

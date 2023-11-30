@@ -1,12 +1,33 @@
 toc2:
   - title: Professional   
     subfolderitems:
-      - page: Ithacan Media
+      - page: openGalaxy
         url: /ithacan.html
-      - page: Topps
+      - page: Who's Your God?
+        url: /ithacan.html#mythologies 
+      - page: Singing with the Winds
+        url: /ithacan.html#mythologies
+      - page: Flying with Icarus
+        url: /ithacan.html#mythologies
+      - page: Star Wars Card Trader
         url: /topps.html
-      - page: eGames
+      - page: Disney Collect
+        url: /topps.html
+      - page: Marvel Collect
+        url: /topps.html
+      - page: Topps Bunt
+        url: /topps.html
+      - page: Topps Kick
+        url: /topps.html
+      - page: Topps Skate
+        url: /topps.html
+
+     # - page: Topps
+     #   url: /topps.html
+      - page: Spartacus
         url: /egames.html
+      - page: Quiz Rewards
+        url: /egames.html#quiz
         #subsubfolderitems:
          # - page: Swords and Sandals Spartacus
          #   #url: /spartacus.html
@@ -21,16 +42,16 @@ toc2:
     subfolderitems:
       - page: Chelsea Waterside
         url: /chelsea-waterside.html
-      - page: Down Word Drop
-        #url: /piece2.html
+      - page: Word Rug  
+        url: /drop-words.html
   - title: Force Majeure and Bullpen 
     subfolderitems:
       - page: Trains Go By
-        #url: /trainsgoby.html
+        url: /trainsgoby.html
       - page: When Earth Met Sky
       - page: Subalternalternalternative Nation
-        url: /subaltern.html
-      - page: PowAR BrokAR
+    #    url: /subaltern.html
+    #  - page: PowAR BrokAR
         #url: /moses.html
 
 

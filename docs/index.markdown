@@ -5,48 +5,21 @@
 layout: default
 ---
 <!-- <h1>The Stephen Hoban Personal Portfolio Website</h1> -->
+<br/>
 
-I am a game developer working in Unity and C#. My interests are games, game development, and C#.  
+Hello world. I am a game developer working in Unity and C#. My interests are game development, working in Unity, and C#.  <br/>
 
-<!-- 
-<h2>Professional Experience</h2>
+This portfolio is a sampling of projects I have designed, written, produced and/or developed over the past few years. I specialize in building games for mobile devices but I also enjoy tailoring projects for AR, PC, web, and custom systems. I live in New York. 
 
-<div class="resume">
+<h5>About me</h5>
+Before games I was a leader in the publications programs of the Guggenheim Museum and Dia, where titles I edited won top industry awards for their conent and design, including multiple recognitions in the AIGA 50 Books/50 Covers list. I also built the Guggenheim's digital publication program and helped shape static and dynamic exhibition didactics.
 
+My first games were as part of Ithacan Media, a studio devoted to retelling stories from Greek mythology. I have a masters of philosophy degree in classics from Oxford; I taught myself Greek when my father wouldn't let me take a class on it. Mythology, especially the structures behind mythological narratives, has a strong appeal to me. How continuous retellings of a handful of stories sustained audiences for fifteen hundred years says something special about and expansive about creativity. With the <a href="/ithacan.html#mythologies">Ithacan Mythologies</a> games we found natural counterparts between Greek myths and familiar arcade genres. 
 
-<h3 >Ithacan Media</h3>
-<ul>
-<li><a href="https://www.opengalaxy.com/">openGalaxy</a></li>
+At the same time I am also drawn to family games and children's games. I first learned Unity by building personal versions of simple family games for my child to play. As he continues to grow, our interests are gravitating toward the idea of neurodivergent gaming, and the forms that could take. What does a game without characters, or goals, look like? A recent paper suggests that the <A href="https://scitechdaily.com/physicists-are-unraveling-the-mystery-of-the-arrow-of-time/">concept of time may be neurotypical</a>. Games and play are a form of suspended time; in that sense games can help provide shared experiences between different neurotypes.
 
-<li><a href="https://www.ithacanmythologies.com/">Ithacan Mythologies</a></li>
-</ul>
-<h3 class="resume">eGames</h3>
+I hope you are viewing this on a desktop browser. Mobile is coming soon but it's not top of list.
 
-<ul>
-<li><a href="/cash-quizz">Cash Quizz Rewards</a></li>
-
-<li><a href="https://play.egames.com/swords-and-sandals-spartacus/">Swords & Sandals: Spartacus</a> </li>
-</ul>
-
-<h2>Personal Projects</h2>
-<ul>
-<li><a href="/chelsea-waterside">Chelsea Waterside AR</a> </li>
-<li>Word 3</li>
-<li>Bouncing  off the Walls</li>
-<li>Powar Brokar</li>
-</ul> 
-</div>
-
-<h2>Force Majeure and Bullpen Projects</h2>
-<ul>
-<li>Trains Go By</li>
-<li>Subalternalternalteralternalternative Nation</li>
-</ul>
-
-<a href="https://github.com/Stephen-Hoban/"><img src="/images/github-mark.png" alt="GitHub" width="40"/></a>
-
-
-<!-- <a href="/about">About</a> -->
 
 
 
