@@ -242,3 +242,5 @@ p.resume {
 .sideTop {margin-top: 1em; margin-bottom: 0em; }
 .entry { display: inline;}
 .sidebarNav { color: black}
+
+li {list-style: none;}

@@ -4,11 +4,13 @@
 
 layout: default
 ---
+<a name="top"></a>
+
 <h1>Personal</h1>
 
 <h2>Word Rug</h2>
 
-<video autoplay muted loop controls width="250" style="display:block;margin:auto;">
+<video autoplay muted loop width="250" style="display:block;margin:auto;">
     <source src="/videos/DownWordDrop.mp4" type="video/mp4" /> 
 </video>
 
