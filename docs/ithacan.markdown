@@ -4,61 +4,49 @@
 
 layout: default
 ---
-<a name="open"></a>
-
-<h1>Ithacan Media</h1>
-
-<h2>OpenGalaxy</h2>
-<!--
-![OpenGalaxy](/images/opengalaxy-banner.jpg)
--->
-<video autoplay muted loop controls width="650">
-    <source src="/videos/OpenGalaxyTrailer.mp4" type="video/mp4" /> 
-</video>
-
-<br/>
-The OpenGalaxy is a customizable personal mythology and planet builder. It puts the player in the position of god at the moment of creation, to develop civilizations with unique customs of worship, set in a multiplayer universe of fellow gods and planet holders. It's an expansive and open project, by definition. I think of it as a UGC application of the infinite monkeys theorem applied to the evolution of human belief: how differently would our understanding of the supernatural develop, given another chance? The player's exploration of that question finds its expression in a powerful PvP battle mechanic called the Strike. 
-
-The openGalaxy's cosmos can be browsed on the web through the project's <a href="https://www.opengalaxy.com/galaxy">galaxy map</a>, and an expanded planet maker tool designed for iOS is currently in <a href="mailto: stephen@opengalaxy.com?subject=Add me to the closed beta">closed beta</a>. It supports, but does not require, <a href="https://opensea.io/collection/opengalaxy-stars">the blockchain</a>. The central game is tentatively set for mobile release around the 2024 Perseids.
-
-![OpenGalaxy Planet Maker](/images/EditPlanet_SelectNature.png)
-
-[OpenGalaxy web beta](https://www.opengalaxy.com/)
-
-Project Dates: 2020–present<br/>
-Published platforms: Web, iOS<br/> 
-Select assets on Polygon chain<br/>
-<A href="https://www.shorooq.com/shft">SHFT</a> game incubator participant, 2023
-
 
 <a name="mythologies"></a>
+
+<h1>Ithacan Mythologies</h1>
+
 <br/>
+<A href="https://www.ithacanmythologies.com/" target="_blank">Ithacan Mythologies</a> was a collaboration with children's author Sofia Zarabouka to retell tales from Greek mythology in the form of classic arcade games. (Several of Sofia's classic books are available in  <A href="https://archive.org/details/jasongoldenfleec0000zara/page/n63/mode/2up" target="_blank">English translation</a> published by the Getty Museum.) As story director for the project, I oversaw narrative design and production. Three games were released on iOS devices in 2016 and 2017: the musical game Singing with the Winds, sidescrolling flying game Flying with Icarus, and personality quiz app Who's Your God. New games and a series of interactive story books are in the works.  
+<br/>  
 
-<h2>Ithacan Mythologies</h2>
-
-
-<!--![Ithacan Mythologies](/images/Flying_with_Icarus.png)-->
+<a name="flying" />
+<h2>Flying with Icarus</h2>
 <video autoplay muted loop controls width="650">
     <source src="/videos/Flying.mp4" type="video/mp4" /> 
 </video>
-<Br/>
-Ithacan Mythologies was a collaboration with children's author Sofia Zarabouka to retell tales from Greek mythology in the form of classic arcade games. (Several of Sofia's classic books are available in  <A href="https://archive.org/details/jasongoldenfleec0000zara/page/n63/mode/2up">English editions</a> published in the U.S. by the Getty Museum.) As story director for the project, I oversaw narrative design and production. Three games were released on iOS devices in 2016 and 2017: the musical game Singing with the Winds, sidescrolling flying game Flying with Icarus, and personality quiz app Who's Your God. New games and a series of interactive story books are in the works.
-
 <br/>
 
-iOS: <br/>
-[Who's Your God](https://apps.apple.com/us/app/whos-your-god/id1096771581) <br/>
-[Singing with the Winds](https://apps.apple.com/us/app/whos-your-god/id1096771581) <br/>
-[Flying with Icarus](https://apps.apple.com/us/app/flying-with-icarus/id1110277287)
+Flying with Icarus is a flying arcade style game based on the famous myth of Icarus and his father Daedalus’s daring escape from King Minos’s Labyrinth. Flying with Icarus is a flying arcade style game based on the famous myth of Icarus and his father Daedalus’s daring escape from King Minos’s Labyrinth.
 
-Project Dates: 2015–2017 <br/>
-Published platforms: iOS
 <br/>
+<a name="singing" />
+<h2>Singing with the Winds</h2>
 <video autoplay muted loop controls width="650">
     <source src="/videos/Singing.mp4" type="video/mp4" /> 
 </video>
 <br/>
 
+According to legend, the philosopher Pythagoras discovered the pentatonic scale. In “Singing with the Winds,” we used the pentatonic scale and the lyre—the ancient instrument, given by Hermes to Apollo, that gave the world lyric poetry—to create an easy-to-play music game.
+
+<br/>
+<a name="whos" />
+<h2>Who's Your God?</h2>
 <video autoplay muted loop controls width="650">
     <source src="/videos/WhosYourGod.mp4" type="video/mp4" /> 
 </video>
+<br/>
+
+“Who’s Your God?” is an Olympian-themed personality quiz game based on characters created and illustrated by Sofia Zarabouka. We selected colorful episodes from mythology where players could choose a course of action and discover which gods think most like them. Each god’s distinct personality is emphasized. The questions were lightly inspired by the Meyers-Briggs personality assessments, so we spent a lot of time pondering, for example, whether Hermes might be more of an INTJ or an ESFP type of god.
+
+iOS:  
+[Who's Your God](https://apps.apple.com/us/app/whos-your-god/id1096771581)  
+[Singing with the Winds](https://apps.apple.com/us/app/whos-your-god/id1096771581)  
+[Flying with Icarus](https://apps.apple.com/us/app/flying-with-icarus/id1110277287)  
+  
+Project Dates: 2015–2017 <br/>
+Studio: Ithacan Media  
+Published platforms: iOS

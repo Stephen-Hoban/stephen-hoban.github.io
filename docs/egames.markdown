@@ -18,9 +18,10 @@ layout: default
 
 “Swords and Sandals Spartacus” was published by eGames and Whiskeybarrel Studios in 2019 and is currently available on Steam. I worked as an assistant developer for the PC edition of the game, focused on building functionality in Unity. I also oversaw the game's iOS and Android ports and designed its custom controls.  
 
-[Swords and Sandals on Steam](https://store.steampowered.com/app/1149080/Swords_and_Sandals_Spartacus/)
+<A href="https://store.steampowered.com/app/1149080/Swords_and_Sandals_Spartacus/" target="_blank">Swords and Sandals on Steam</a>
 
 Project Dates: 2019–2020<br/>
+Studio: eGames / Whiskeybarreel Studios  
 Published platforms: PC, Nintendo Switch, iOS, Android
 
 <Br/>
@@ -37,4 +38,5 @@ Quiz Rewards was a iOS and Android free-to-play trivia game published by eGames.
 <br/>
 
 Project Dates: 2020–2021 <br/>
+Publisher: eGames  
 Published platforms: iOS, Android

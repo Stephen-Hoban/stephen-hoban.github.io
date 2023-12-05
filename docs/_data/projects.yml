@@ -2,33 +2,33 @@ toc2:
   - title: Professional   
     subfolderitems:
       - page: Disney Collect
-        url: /topps.html#topps
+        url: /topps.html#disney
       - page: Flying with Icarus
-        url: /ithacan.html#mythologies
+        url: /ithacan.html#flying
 
       - page: Marvel Collect
-        url: /topps.html#topps
+        url: /topps.html#marvel
       - page: OpenGalaxy
-        url: /ithacan.html#open
+        url: /opengalaxy.html#open
       - page: Quiz Rewards
         url: /egames.html#quiz
 
       - page: Singing with the Winds
-        url: /ithacan.html#mythologies
+        url: /ithacan.html#singing
       - page: Spartacus
         url: /egames.html        
       - page: Star Wars Card Trader
-        url: /topps.html#topps
+        url: /topps.html#swct
 
       - page: Topps Bunt
-        url: /topps.html#topps
+        url: /topps.html#bunt
       - page: Topps Kick
-        url: /topps.html#topps
+        url: /topps.html#kick
       - page: Topps Skate
-        url: /topps.html#topps
+        url: /topps.html#skate
 
       - page: Who's Your God?
-        url: /ithacan.html#mythologies 
+        url: /ithacan.html#whos 
 
   - title: Personal 
     subfolderitems:

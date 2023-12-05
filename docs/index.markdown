@@ -5,7 +5,7 @@
 layout: default
 ---
 <br/>
-Hello world. I'm Stephen and I'm glad you're here. I am a game developer working in Unity and C#. My interests are game development, working in Unity, and C#.  <br/>
+Hello world. I'm Stephen and I'm glad you're here. I am a game developer working in Unity and C#. <br/>
 
 This portfolio offers a sampling of projects I have designed, written, produced and/or developed over the past few years. 
 
